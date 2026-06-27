@@ -12,6 +12,9 @@ A sleek, interactive image gallery with horizontal scrolling and smooth navigati
 # Live Demo:
 https://tahirahmad88.github.io/Horizontal_Gallery/
 
+# ScreenShot:
+<img width="1339" height="539" alt="image" src="https://github.com/user-attachments/assets/f1088a5b-8412-4bfe-8bd9-a8fe6777a7d8" />
+
 # Quick Start
 1. Clone the repository
 
