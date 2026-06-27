@@ -9,6 +9,9 @@ A sleek, interactive image gallery with horizontal scrolling and smooth navigati
 * Responsive Design - Works on all screen sizes
 * Clean Interface - Minimal dark theme focuses on content
 
+# Live Demo:
+https://tahirahmad88.github.io/Horizontal_Gallery/
+
 # Quick Start
 1. Clone the repository
 
