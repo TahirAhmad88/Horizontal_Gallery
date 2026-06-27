@@ -25,6 +25,7 @@ Horizontal_Gallery/
 ├── HorizontalScrollImageGallery.html   # Main HTML file
 ├── HorizontalScrollImageGallery.css    # Styles & animations  
 ├── HorizontalScrollImageGallery.js     # Navigation logic
+
 └── images/                            # Image assets
     ├── image-1.png to image-6.png     # Gallery images
     ├── back.png                       # Back button
@@ -57,10 +58,10 @@ css
     filter: grayscale(100%); /* 0-100% */
 }
 # Troubleshooting
-**  Issue	                  Solution**
-Images not loading	      Check images/ folder and file names
-Gallery not scrolling	    Verify JavaScript is linked correctly
-Layout breaks on mobile	  Adjust .gallery width in CSS
+  **Issue**	                      **Solution**
+Images not loading	          Check images/ folder and file names
+Gallery not scrolling	      Verify JavaScript is linked correctly
+Layout breaks on mobile	      Adjust .gallery width in CSS
 
 # Contributing
 1. Fork the repository
